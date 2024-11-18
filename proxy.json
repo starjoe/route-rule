@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain": [
+          "analytics.strava.com",
+          "www.yxssp.com"
+        ],
+        "domain_suffix": [
+          "00cdn.com",
+          "0123456789.com",
+          "0379home.com"          
+        ]
+      }
+    ]
+  }
