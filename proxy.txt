@@ -1,4 +1,4 @@
-
+domain_suffix:
 whatismyip.akamai.com
 api.ipify.org
 ajs.ipip.net
@@ -6,7 +6,7 @@ v.guoing.com
 oauth-api.vcinema.cn
 open-web-api-v2.vcinema.cn
 kspdfk-c12.vcinema.cn
-post-cn-mp907v2bd06.mqtt.aliyuncs.com
+mqtt.aliyuncs.com
 clientapi.ipip.net
 cp54api.mc.cibn.cc
 api.ikkdesk.com
@@ -14,7 +14,7 @@ cnbj2.fds.api.xiaomi.com
 ynuf.aliapp.org
 cdn.ynuf.aliapp.org
 dypnsapi.aliyuncs.com
-a1408bou2fi.iot-as-mqtt.cn-shanghai.aliyuncs.com
+iot-as-mqtt.cn-shanghai.aliyuncs.com
 public.iot-as-mqtt.cn-shanghai.aliyuncs.com
 dreame-cn.oss-cn-shanghai.aliyuncs.com
 log.aispeech.com
